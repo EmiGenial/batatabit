@@ -1,2 +1,1 @@
-# batatabit
 Curso responsive Design
